@@ -1,0 +1,25 @@
+{
+  "name": "real-time-white-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/student-Bindu/real-time-white-board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/student-Bindu/real-time-white-board/issues"
+  },
+  "homepage": "https://github.com/student-Bindu/real-time-white-board#readme"
+}
